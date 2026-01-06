@@ -1,0 +1,5 @@
+{
+  "name": "CloudMed Nexus",
+  "description": "A comprehensive dashboard integrating Google Cloud Platform management APIs and Firebase services with Gemini AI analysis for medical practice optimization.",
+  "requestFramePermissions": []
+}
